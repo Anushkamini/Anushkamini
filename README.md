@@ -1,5 +1,9 @@
 # 💫 About Me:
- I am a second-year B.Tech student in Computer Engineering, currently in my fourth semester. <br>I have a strong interest in learning core computing concepts and applying them through practical projects.<br>
+I'm Anushkamini, a Computer Engineering student passionate about building intelligent software solutions that combine artificial intelligence with practical applications. I enjoy exploring Machine Learning, Retrieval-Augmented Generation (RAG), Natural Language Processing, and full-stack development to create impactful, user-centric projects.
+
+My interests lie in developing AI-powered applications, solving algorithmic problems, and continuously improving my software engineering skills through hands-on projects and competitive programming. I believe in writing clean, maintainable code and learning by building real-world solutions.
+
+Beyond development, I have a creative side with interests in writing, digital content creation, photography, and art, which helps me approach technical challenges with both analytical thinking and creativity.<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Anushkamini) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anushkamini) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anushkamini) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anushkamini01@gmail.com) 
